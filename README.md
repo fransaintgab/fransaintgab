@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fransaintgab
 - 👀 I’m interested in Computer science and Web Development.
-- 🌱 I’m currently learning CS 🖥 
 - 💞️ I’m looking to collaborate on some projects as I journey in this coursework. 
 - 📫 How to reach me fransaintgab@gmail.com
 
